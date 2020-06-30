@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Damian&#x27;s Blog</title>
+    <link href="https://Damian96.github.io/myblog/feed.xml" rel="self" />
+    <link href="https://Damian96.github.io/myblog" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>Damian</name>
+    </author>
+    <id>https://Damian96.github.io/myblog</id>
+
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Damian</name>
+        </author>
+        <link href="https://Damian96.github.io/myblog/about-me.html"/>
+        <id>https://Damian96.github.io/myblog/about-me.html</id>
+
+        <updated>2020-06-30T11:26:56+03:00</updated>
+            <summary>
+                <![CDATA[
+                    My name is Damianos Giankakis, and I am a graduate of City College, International Faculty of the University of Sheffield. I am a specialist in Backend Web Development, although I also love to expirement with front-end technologies. I usually write about: I speak Greek, English and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My name is Damianos Giankakis, and I am a graduate of City College, International Faculty of the University of Sheffield. I am a specialist in Backend Web Development, although I also love to expirement with front-end technologies.</p>
+<p>I usually write about:</p>
+<ul>
+<li>PHP 7 / Laravel 6</li>
+<li>JavaScript ES6 / Browser Addons</li>
+<li>Shell Scripting / Bash</li>
+</ul>
+<p>I speak <strong>Greek</strong>, <strong>English</strong> and a little bit of <strong>Deutch</strong>. I live in SKG, Macedonia Greece.<br>In my spare time I like to go 🏊 or play 🏀.</p>
+<p><code class="prism  language-bash"><span class="token shebang important">#!/bin/bash</span><br><br>hello<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><br>    name<span class="token operator">=</span><span class="token variable">$1</span><br>
+	    <span class="token function">printf</span> <span class="token string">"%s\n"</span> <span class="token string">"Hi, <span class="token variable">$name</span>"</span><br>
+<span class="token punctuation">}</span><br>
+hello <span class="token string">"guest"</span><br>
+</code></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Web Page Canvas</title>
+        <author>
+            <name>Damian</name>
+        </author>
+        <link href="https://Damian96.github.io/myblog/web-page-canvas.html"/>
+        <id>https://Damian96.github.io/myblog/web-page-canvas.html</id>
+
+        <updated>2020-06-30T11:26:56+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Chrome Webstore https://github.com/mrcoles/full-page-screen-capture-chrome-extension/blob/master/page.js
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="http://bit.ly/2Njyo6C" title="Chrome Webstore" target="_blank" rel="noopener noreferrer">Chrome Webstore</a></p>
+<p> </p>
+<p>https://github.com/mrcoles/full-page-screen-capture-chrome-extension/blob/master/page.js</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

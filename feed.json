@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Damian&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://Damian96.github.io/myblog",
+    "feed_url": "https://Damian96.github.io/myblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Damian"
+    },
+    "items": [
+        {
+            "id": "https://Damian96.github.io/myblog/about-me.html",
+            "url": "https://Damian96.github.io/myblog/about-me.html",
+            "title": "About Me",
+            "summary": "My name is Damianos Giankakis, and I am a graduate of City College, International Faculty of the University of Sheffield. I am a specialist in Backend Web Development, although I also love to expirement with front-end technologies. I usually write about: I speak Greek, English and&hellip;",
+            "content_html": "<p>My name is Damianos Giankakis, and I am a graduate of City College, International Faculty of the University of Sheffield. I am a specialist in Backend Web Development, although I also love to expirement with front-end technologies.</p>\n<p>I usually write about:</p>\n<ul>\n<li>PHP 7 / Laravel 6</li>\n<li>JavaScript ES6 / Browser Addons</li>\n<li>Shell Scripting / Bash</li>\n</ul>\n<p>I speak <strong>Greek</strong>, <strong>English</strong> and a little bit of <strong>Deutch</strong>. I live in SKG, Macedonia Greece.<br>In my spare time I like to go 🏊 or play 🏀.</p>\n<p><code class=\"prism  language-bash\"><span class=\"token shebang important\">#!/bin/bash</span><br><br>hello<span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span><br>    name<span class=\"token operator\">=</span><span class=\"token variable\">$1</span><br>\n\t    <span class=\"token function\">printf</span> <span class=\"token string\">\"%s\\n\"</span> <span class=\"token string\">\"Hi, <span class=\"token variable\">$name</span>\"</span><br>\n<span class=\"token punctuation\">}</span><br>\nhello <span class=\"token string\">\"guest\"</span><br>\n</code></p>",
+            "author": {
+                "name": "Damian"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-30T11:26:56+03:00",
+            "date_modified": "2020-06-30T11:26:56+03:00"
+        },
+        {
+            "id": "https://Damian96.github.io/myblog/web-page-canvas.html",
+            "url": "https://Damian96.github.io/myblog/web-page-canvas.html",
+            "title": "Web Page Canvas",
+            "summary": "Chrome Webstore https://github.com/mrcoles/full-page-screen-capture-chrome-extension/blob/master/page.js",
+            "content_html": "<p><a href=\"http://bit.ly/2Njyo6C\" title=\"Chrome Webstore\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome Webstore</a></p>\n<p> </p>\n<p>https://github.com/mrcoles/full-page-screen-capture-chrome-extension/blob/master/page.js</p>",
+            "author": {
+                "name": "Damian"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-30T11:26:56+03:00",
+            "date_modified": "2020-06-30T11:26:56+03:00"
+        }
+    ]
+}
