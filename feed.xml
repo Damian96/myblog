@@ -17,7 +17,7 @@
         <link href="https://Damian96.github.io/myblog/about-me.html"/>
         <id>https://Damian96.github.io/myblog/about-me.html</id>
 
-        <updated>2020-10-17T15:21:50+03:00</updated>
+        <updated>2020-10-17T15:25:17+03:00</updated>
             <summary>
                 <![CDATA[
                     My name is Damianos Giankakis, and I am a graduate of City College, International Faculty of the University of Sheffield. I am a specialist in Backend Web Development, although I also love to expirement with front-end technologies. I usually write about: I speak Greek, English and&hellip;
@@ -49,8 +49,9 @@ hello <span class="token string">"guest"</span><br>
         </author>
         <link href="https://Damian96.github.io/myblog/web-page-canvas.html"/>
         <id>https://Damian96.github.io/myblog/web-page-canvas.html</id>
+            <category term="browser-addons"/>
 
-        <updated>2020-10-17T15:21:50+03:00</updated>
+        <updated>2020-10-17T15:25:17+03:00</updated>
             <summary>
                 <![CDATA[
                     Chrome Webstore https://github.com/mrcoles/full-page-screen-capture-chrome-extension/blob/master/page.js
