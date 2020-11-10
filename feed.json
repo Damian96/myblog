@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://Damian96.github.io/myblog/react-todo-app.html",
+            "url": "https://Damian96.github.io/myblog/react-todo-app.html",
+            "title": "React Todo App",
+            "summary": "Recently I created a React Todo App, with the functionality of Create, Edit, Delete on each item. I created this app, in order to just practice with React.",
+            "content_html": "<p>Recently I created a React Todo App, with the functionality of Create, Edit, Delete on each item.</p>\n<p>I created this app, in order to just practice with React.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"480\" height=\"240\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://user-images.githubusercontent.com/19414954/98666299-7f4ee000-2355-11eb-9036-948eff502817.gif\" /></video></figure>",
+            "author": {
+                "name": "Damian"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-10T13:07:19+02:00",
+            "date_modified": "2020-11-10T13:07:19+02:00"
+        },
+        {
             "id": "https://Damian96.github.io/myblog/about-me.html",
             "url": "https://Damian96.github.io/myblog/about-me.html",
             "title": "About Me",
@@ -20,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-17T15:28:10+03:00",
-            "date_modified": "2020-10-17T15:28:10+03:00"
+            "date_published": "2020-11-10T13:07:19+02:00",
+            "date_modified": "2020-11-10T13:07:19+02:00"
         },
         {
             "id": "https://Damian96.github.io/myblog/web-page-canvas.html",
@@ -35,8 +49,8 @@
             "tags": [
                    "browser-addons"
             ],
-            "date_published": "2020-10-17T15:28:10+03:00",
-            "date_modified": "2020-10-17T15:28:10+03:00"
+            "date_published": "2020-11-10T13:07:19+02:00",
+            "date_modified": "2020-11-10T13:07:19+02:00"
         }
     ]
 }
