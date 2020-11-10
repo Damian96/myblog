@@ -19,9 +19,10 @@
                 "name": "Damian"
             },
             "tags": [
+                   "react-js"
             ],
-            "date_published": "2020-11-10T13:07:19+02:00",
-            "date_modified": "2020-11-10T13:07:19+02:00"
+            "date_published": "2020-11-10T13:08:40+02:00",
+            "date_modified": "2020-11-10T13:08:40+02:00"
         },
         {
             "id": "https://Damian96.github.io/myblog/about-me.html",
@@ -34,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-11-10T13:07:19+02:00",
-            "date_modified": "2020-11-10T13:07:19+02:00"
+            "date_published": "2020-11-10T13:08:40+02:00",
+            "date_modified": "2020-11-10T13:08:40+02:00"
         },
         {
             "id": "https://Damian96.github.io/myblog/web-page-canvas.html",
@@ -49,8 +50,8 @@
             "tags": [
                    "browser-addons"
             ],
-            "date_published": "2020-11-10T13:07:19+02:00",
-            "date_modified": "2020-11-10T13:07:19+02:00"
+            "date_published": "2020-11-10T13:08:40+02:00",
+            "date_modified": "2020-11-10T13:08:40+02:00"
         }
     ]
 }
