@@ -14,15 +14,15 @@
             "url": "https://Damian96.github.io/myblog/react-todo-app.html",
             "title": "React Todo App",
             "summary": "Recently I created a React Todo App, with the functionality of Create, Edit, Delete on each item. I created this app, in order to just practice with React.",
-            "content_html": "<p>Recently I created a React Todo App, with the functionality of Create, Edit, Delete on each item.</p>\n<p>I created this app, in order to just practice with React.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://user-images.githubusercontent.com/19414954/98666902-54b15700-2356-11eb-9215-712e76891029.gif\" data-is-external-image=\"true\"  alt=\"React Todo App\" width=\"480\" height=\"270\"></figure>",
+            "content_html": "<p>Recently I created a React Todo App, with the functionality of Create, Edit, Delete on each item.</p>\n<p>I created this app, in order to just practice with React.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://user-images.githubusercontent.com/19414954/98666902-54b15700-2356-11eb-9215-712e76891029.gif\" data-is-external-image=\"true\"  alt=\"React Todo App\" width=\"880\" height=\"495\"></figure>",
             "author": {
                 "name": "Damian"
             },
             "tags": [
                    "react-js"
             ],
-            "date_published": "2020-11-10T13:12:31+02:00",
-            "date_modified": "2020-11-10T13:12:31+02:00"
+            "date_published": "2020-11-10T13:12:58+02:00",
+            "date_modified": "2020-11-10T13:12:58+02:00"
         },
         {
             "id": "https://Damian96.github.io/myblog/about-me.html",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-11-10T13:12:31+02:00",
-            "date_modified": "2020-11-10T13:12:31+02:00"
+            "date_published": "2020-11-10T13:12:58+02:00",
+            "date_modified": "2020-11-10T13:12:58+02:00"
         },
         {
             "id": "https://Damian96.github.io/myblog/web-page-canvas.html",
@@ -50,8 +50,8 @@
             "tags": [
                    "browser-addons"
             ],
-            "date_published": "2020-11-10T13:12:31+02:00",
-            "date_modified": "2020-11-10T13:12:31+02:00"
+            "date_published": "2020-11-10T13:12:58+02:00",
+            "date_modified": "2020-11-10T13:12:58+02:00"
         }
     ]
 }
